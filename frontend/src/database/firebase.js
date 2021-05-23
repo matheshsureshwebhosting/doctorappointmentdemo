@@ -1,15 +1,15 @@
 import firebase from 'firebase'
 
 const firebaseConfig = {
-    apiKey: process.env.REACT_APP_APIKEY,
-    authDomain: process.env.REACT_APP_AUTHDOMAIN,
-    databaseURL: process.env.REACT_APP_DATABASEURL,
-    projectId: process.env.REACT_APP_PROJECTID,
-    storageBucket: process.env.REACT_APP_STORAGEBUCKET,
-    messagingSenderId: process.env.REACT_APP_MESSAGINGSENDERID,
-    appId: process.env.REACT_APP_APPID
-};
+  apiKey: 'AIzaSyCTsD0FZCNyb8yFlJGNGJYXE8Wl1r9CD3M',
+  authDomain: 'doctors-appointment-book-257a1.firebaseapp.com',
+  databaseURL: process.env.REACT_APP_DATABASEURL,
+  projectId: 'doctors-appointment-book-257a1',
+  storageBucket: 'doctors-appointment-book-257a1.appspot.com',
+  messagingSenderId: '171553867087',
+  appId: '320934731445:1:171553867087:web:a98d05c1205e91753d313a',
+}
 
-firebase.initializeApp(firebaseConfig);
+firebase.initializeApp(firebaseConfig)
 
 export default firebase
