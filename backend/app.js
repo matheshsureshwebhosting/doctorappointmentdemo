@@ -3,17 +3,17 @@ const path = require('path')
 const morgan = require('morgan')
 const dotenv = require('dotenv').config()
 const cors = require('cors')
-const port = process.env.PORT
+const port = process.env.PORT || 4000
 var app = express()
 
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 app.use(morgan('dev'))
-app.use(
-  cors({
-    origin: 'http://localhost:3000',
-  })
-)
+// app.use(
+//   cors({
+//     origin: 'http://localhost:3000',
+//   })
+// )
 
 app.use('/slot', require('./routers/slot'))
 app.use('/doctor', require('./routers/adddoctor'))
