@@ -1,0 +1,7 @@
+How to start API:
+1. Install nodemodules in /backend folder.
+2. Type Command "node app.js" in CMD to start the server.
+
+How to start Application:
+1. Install nodemodules in /frontend folder
+2. Type npm start to run the react application.

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "doctors-appointment-book-257a1",
+  "private_key_id": "1ec6a0855f1d63766816d00f3709e59ac1c75993",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDPeMaduVWRgoc3\nb8xTllgqVuphvpnJSXhnJJOOtIf//u07DFXvQjVGrRqYAjDkfy5Gy/0E9eaoubFj\nx3cG0i0HVWWIspkcyDvnsQBI0jiZOsuNhRKUmrzCDc91phIAlPH+ykvb9rF6uG4Q\n0I/U4oUp0d9LiOsU+yQDVAB9m7lWj/vNwEECPe3Qrld6wbHhpsjgGUS5vHs62V8L\nrqFKMGKlsV1530ykupDUQ7DiGD4B4znU0HG6cgvjLXHdJRpjwy6VV0Iu5VeOmxtB\nq+ODdMLfSJtSesq4txlohoCb3ghJOVlh5YLjkiA7qGNWPZRVBpj3C+bvboWOMXeA\nZJvissobAgMBAAECggEAKIKYIX7pLtbSSShKuL1/7JB5BmndhFiUqmsRZsloTrt7\nnc58TxHZ7jlpmmm/GzacFhXJizjqd2J+uRFe89WBFk/92dGppN2SGNzORenKRF0f\nFrx3ks2d8rQYoIuzMyriD5J3enUyVViCoUTf+LzcLHy+wXR0Fm4tK3sw91W7PCPZ\n5VspZrnDTPgTPoZpICC2v6l/Ag5kMRWM6PyCQm0wZTw3Geh6AMFZrncOSLje/j4F\n4eDDriyliM0mP/NoeNezLPITd/hj43ethcUOJvrI/j6mT+NnjKY+pXVQZlAp6OS4\naL2X2QYp94uE9w8SsQH9T8VlSy0inqjqKdYM74wmCQKBgQD1WFHGxiWAW2Jh1YtR\nqPrF9H2TOR/Ow+OzeEZy/S8yiETFBWB7y0CqWOELMg5gArVfJqtEAS3+1OJ5E0tP\nrstGndRc3sBFmdPmRz4F+Yk2bqqGemfEfKFjAB4MyjraMz8pIhuoABiu1FB6vvx2\nE+rz1/ToHNVoF0UdyYDdnR2iQwKBgQDYe2RcDHqnZj693jwiaeiZtsyA2RkkjEpn\nS+EHa+Tkzkzj34sH64EIlcH/kRElFX6xnvpn3u35KVOaaSGSr8N2H2/sGp98hzT1\nCCQv0g+jlezDBVo0fwwYD3wH1jo3hGzGFLd33oC3FBxkX4Szn6FVzfanv1WSGbyw\n4htu266XSQKBgQDJDPQOiMeodLqdY4oEhA3kdCMHpzMqlBofMvvANTwdE9APCAX1\nzCyUq7rXGtDu2qlYbO7CDplrj3Z7M1Vu2dVYa/PfmuZC4vjjZxQrfz5y7aMuClbI\njD0QTMNTRdGOh5pFkd7KADI56mB9Bc8Kz+2knx7hqucyoocQDtVcRelH0wKBgQDS\nsd2uvTKPRLMiBm8Oq3eIS+LkMOgIq0YrHS3qFDfV/XfWfRaK4cpXObJz85P1PONv\nKqTafZ2t2GwXJ+VWKB0cFWLQL+UzxUBkj8TwiglQlLW35biyyUhTDpcP5ZAJwqg/\nbaBXWUZ7aWZsxo6YaHAU2/4Jq+4z4TrGCXrbvZJCiQKBgQCA+QO4yOWvlvaJ2bEQ\nG+729jo6V4bQcsj+fY2KJGNcFzjclN2TK+p5f3AISDHc7CUOWVhsLiTMaf2NZQfG\nayS2dwL81/tMT9AOi1IVtjCBF9le1Xsy2xcytVhefyb1X1a7UiOvDbpNoeo5kpGQ\n/XMEAtVLkvDZYpzSWQhdsHDulA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-9psj0@doctors-appointment-book-257a1.iam.gserviceaccount.com",
+  "client_id": "102081086341456402324",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-9psj0%40doctors-appointment-book-257a1.iam.gserviceaccount.com"
+}

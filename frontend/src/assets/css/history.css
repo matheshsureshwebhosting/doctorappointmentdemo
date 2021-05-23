@@ -1,0 +1,10 @@
+.historycard{
+    font-family: sans-serif;
+    /* width: 300px; */
+    margin-top: 3em;
+    margin-bottom: 3em;
+    border-radius: 10px;
+    background-color: #ffff;
+    padding: 0.8rem;
+    box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.1);
+}
