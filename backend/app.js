@@ -9,11 +9,11 @@ var app = express()
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 app.use(morgan('dev'))
-// app.use(
-//   cors({
-//     origin: 'https://doctor-appointment-book.herokuapp.com',
-//   })
-// )
+app.use(
+  cors({
+    origin: 'https://doctor-appointment-book.herokuapp.com',
+  })
+)
 
 app.use('/slot', require('./routers/slot'))
 app.use('/doctor', require('./routers/adddoctor'))
